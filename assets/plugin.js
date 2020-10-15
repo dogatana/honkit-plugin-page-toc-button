@@ -80,7 +80,7 @@ gitbook.events.on('page.change', function () {
     }
 
     // Generate html for button and menu
-    let html = `<div class='page-toc-button'>${_icon}<div class='page-toc-menu'><ul>`;
+    let html = '<div class="page-toc-button">' + _icon + '<div class="page-toc-menu"><ul>';
     for (let i = 0; i < tocArray.length; i++) {
         html += "<li><a href='#" + tocArray[i].url + "'>" + tocArray[i].name + "</a></li>";
         if (tocArray[i].children.length > 0) {
