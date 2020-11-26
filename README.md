@@ -1,4 +1,4 @@
-# Honkit Page TOC Button Plugin [![npm version](https://badge.fury.io/js/honkit-plugin-page-toc-button.svg)](https://badge.fury.io/js/honkit-plugin-page-toc-button)
+# Honkit Page TOC Button Plugin
 
 This plugin adds a table of content (TOC) button to your GitBook page. All three GitBook themes (White, Sepia, Night) are supported. This project took heavy inspiration from https://plugins.gitbook.com/plugin/anchor-navigation.
 
