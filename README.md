@@ -49,8 +49,8 @@ icon        | String  |<code>&lt;i class='fa fa-bars'&gt;&lt;/i&gt; | Icon charc
 
 The page toc button:
 
-![Page Toc Button](https://raw.githubusercontent.com/stuebersystems/gitbook-plugin-page-toc-button/master/screenshot1.png)
+![Page Toc Button](screenshot1.png)
 
 The page toc menu:
 
-![Page Toc Menu](https://raw.githubusercontent.com/stuebersystems/gitbook-plugin-page-toc-button/master/screenshot2.png)
+![Page Toc Menu](screenshot2.png)
