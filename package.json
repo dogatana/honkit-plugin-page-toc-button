@@ -1,7 +1,7 @@
 ﻿{
-	"name": "@dogatana/honkit-plugin-page-toc-button",
-	"version": "1.0.0",
-	"description": "Adds a page toc button to your Honkit",
+    "name": "@dogatana/honkit-plugin-page-toc-button",
+    "version": "1.0.0",
+    "description": "Adds a page toc button to your Honkit",
     "main": "index.js",
     "license": "Apache-2.0",
     "authors": [
@@ -11,12 +11,15 @@
     "engines": {
         "gitbook": ">=3.1.1"
     },
-	"homepage": "https://github.com/dogatana/honkit-plugin-page-toc-button",
+    "homepage": "https://github.com/dogatana/honkit-plugin-page-toc-button",
     "repository": {
         "type": "git",
         "url": "https://github.com/dogatana/honkit-plugin-page-toc-button.git"
     },
     "bugs": {
-		"url": "https://github.com/dogatana/honkit-plugin-page-toc-button/issues"
-	}
+        "url": "https://github.com/dogatana/honkit-plugin-page-toc-button/issues"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
 }
