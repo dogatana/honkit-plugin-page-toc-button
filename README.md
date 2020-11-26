@@ -16,7 +16,7 @@ Add the plugin to your `book.json`:
 
 ```js
 {
-	"plugins" : [ "page-toc-button" ]
+	"plugins" : [ "@dogatana/page-toc-button" ]
 }		
 ```
 

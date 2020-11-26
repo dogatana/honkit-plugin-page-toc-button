@@ -1,5 +1,5 @@
 ﻿{
-	"name": "honkit-plugin-page-toc-button",
+	"name": "@dogatana/honkit-plugin-page-toc-button",
 	"version": "1.0.0",
 	"description": "Adds a page toc button to your Honkit",
     "main": "index.js",
